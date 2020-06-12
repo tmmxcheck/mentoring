@@ -9,4 +9,5 @@
         echo 'Conectado satisfactoriamente';
         mysql_close($enlace);
 
+
 ?>
